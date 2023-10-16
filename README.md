@@ -1,7 +1,7 @@
 #### Olá eu sou o Lucas Breviglieri
 
 - 🔭 Estudando Analise e desenvolvimento de sistemas
-- ⚡ Louco para se tornar um programador full-stack
+- ⚡ Louco para se tornar um desenvolvedor full-stack
 
 ##
 
